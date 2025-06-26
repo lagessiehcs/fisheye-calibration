@@ -101,3 +101,11 @@ To test the calication matrices:
 ````
 python undistort.py file_to_undistort.jpg
 ````
+
+## Source
+
+Original code: [Calibrate fisheye lens using OpenCV — part 1](https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-333b05afa0b0)
+
+More information on camera calibration with OpenCV: [Camera Calibration](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
+
+Images: [opencv/samples/data](https://github.com/opencv/opencv/tree/master/samples/data)
